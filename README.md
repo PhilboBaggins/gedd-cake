@@ -1,6 +1,10 @@
 # GeddCake
 
-TODO: Description ...................................
+A cake topper for Geddes' birthday.
+
+![Photo of one of the cake toppers](photo.jpg)
+
+Photo of one of the cake toppers cut from [Ponoko](https://www.ponoko.com/)'s [Purple Swirl Acrylic](https://www.ponoko.com/materials/purple-swirl-acrylic).
 
 ## How big should I make this?
 
